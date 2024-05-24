@@ -13,3 +13,5 @@ The primary goal of this project is to create a reliable system for detecting fa
 - **Pose Estimation**: MediaPipe is utilized to estimate human poses by identifying key points on the body, focusing on the shoulders and hips to determine body angles.
 - **Posture Classification**: Based on the calculated body angles, the system classifies the posture into three categories: standing, falling, or lying down.
 - **Alert System**: The system issues an alert by displaying "FALL DETECTED" on the video frame when a fall is detected within a specified time threshold.
+
+Last Update: May 2024
